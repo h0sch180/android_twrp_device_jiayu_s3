@@ -1,0 +1,11 @@
+
+
+$(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
+
+
+PRODUCT_DEVICE := S3
+PRODUCT_NAME := omni_S3
+PRODUCT_BRAND := JIAYU
+PRODUCT_MODEL := JIAYU S3
+PRODUCT_MANUFACTURER := JIAYU 
+
