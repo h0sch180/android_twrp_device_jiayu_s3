@@ -9,11 +9,11 @@ the way to do:
 
 - repo sync
 
-- git clone https://github.com/h0sch180/android_twrp_device_jiayu_s3 device/JIAYU/S3
+- git clone https://github.com/h0sch180/android_twrp_device_jiayu_s3 device/jiayu/s3_h560
 
 - . build/envsetup.sh
 
-- lunch omni_S3-eng
+- lunch omni_s3_h560-eng
 
 - make -j# recoveryimage [# : no. of cpu core]
 ```

@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/JIAYU/S3
+LOCAL_PATH := device/jiayu/s3_h560
 
 TARGET_BOARD_PLATFORM := mt6752
 TARGET_BOOTLOADER_BOARD_NAME := mt6752

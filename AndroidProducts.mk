@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/JIAYU/S3/
+LOCAL_PATH := device/jiayu/s3_h560/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_S3.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_s3_h560.mk

@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter S3,$(TARGET_DEVICE)),)
+ifneq ($(filter s3_h560,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/JIAYU/S3/
+LOCAL_PATH := device/jiayu/s3_h560/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
